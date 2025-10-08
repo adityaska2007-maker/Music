@@ -1,0 +1,13 @@
+{
+  "name": "meta-music-bot",
+  "version": "1.0.0",
+  "description": "META MUSIC Discord music bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "ytdl-core": "^4.11.1"
+  }
+}
